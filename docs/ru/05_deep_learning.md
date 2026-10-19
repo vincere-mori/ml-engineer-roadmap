@@ -75,3 +75,8 @@
 1. С нуля написать **MLP + backprop без autograd** (numpy).
 2. Обучить **ResNet-like модель** на CIFAR-100, выжать максимум через аугментации.
 3. **Fine-tune** предобученной модели под свою задачу + деплой через FastAPI.
+
+---
+
+<!-- nav -->
+← Назад: [🤖 4. Classical ML](04_classical_ml.md) · [Оглавление](../../README.md) · Далее: [💬 6. Modern AI — NLP, LLM, RAG](06_modern_ai.md) →

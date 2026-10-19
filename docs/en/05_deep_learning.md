@@ -75,3 +75,8 @@
 1. Write **MLP + backprop without autograd** from scratch in NumPy.
 2. Train a **ResNet-like model** on CIFAR-100 and squeeze performance through augmentations.
 3. **Fine-tune** a pretrained model for your own task + deploy through FastAPI.
+
+---
+
+<!-- nav -->
+← Back: [🤖 4. Classical ML](04_classical_ml.md) · [Contents](../../README.md) · Next: [💬 6. Modern AI — NLP, LLM, RAG](06_modern_ai.md) →

@@ -41,11 +41,11 @@
 
 | Ресурс | Уровень |
 |---|:---:|
-| 🥇 «Machine Learning System Design» — Alex Xu, Sahn-Lam | ⭐⭐⭐ |
+| 🥇 «Machine Learning System Design Interview» — Ali Aminian, Alex Xu | ⭐⭐⭐ |
+| 🥇 «Machine Learning System Design» — Валерий Бабушкин, Арсений Кравченко (RU: «Машинное обучение. Проектирование систем от идеи до реализации») | ⭐⭐⭐ |
 | 🥇 [karpov.courses — ML System Design](https://karpov.courses/ml-system-design) | ⭐⭐⭐ |
 | 📘 «Designing ML Systems» — Chip Huyen | ⭐⭐⭐ |
 | 📚 [Eugene Yan — applied-ml](https://github.com/eugeneyan/applied-ml) — кейсы from FAANG | ⭐⭐⭐ |
-| 🎥 [ML System Design Interview — Алексей Гринчук](https://www.youtube.com/results?search_query=ml+system+design+interview) | ⭐⭐ |
 | 🎥 Записи ML Trainings от Yandex | ⭐⭐ |
 
 ---
@@ -56,3 +56,8 @@
 - Объяснить, почему **two-tower** — почти всегда первый кандидат для retrieval.
 - Сравнить **online learning vs batch retraining** под кейс.
 - Рассчитать **бюджет latency** end-to-end (DB → feature → model → response).
+
+---
+
+<!-- nav -->
+← Назад: [⚙️ 7. MLOps & Production](07_mlops.md) · [Оглавление](../../README.md) · Далее: [💼 9. Карьера на российском рынке](09_career.md) →

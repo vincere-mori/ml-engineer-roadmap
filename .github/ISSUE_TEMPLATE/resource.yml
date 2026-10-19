@@ -1,0 +1,44 @@
+name: 📚 Предложить ресурс
+description: Курс, книга, канал или инструмент, которого не хватает в роудмапе
+labels: ["resource"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Ссылка
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: В какой раздел
+      options:
+        - 1. Foundations
+        - 2. Математика
+        - 3. Data Engineering
+        - 4. Classical ML
+        - 5. Deep Learning
+        - 6. Modern AI (NLP, LLM, RAG)
+        - 7. MLOps
+        - 8. ML System Design
+        - 9. Карьера
+        - 10. Pet-проекты
+        - 11. Ресурсы
+        - Не уверен
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Почему стоит добавить
+      description: Пары предложений хватит. Чем он лучше того, что уже есть? Бесплатный или платный, на каком языке?
+    validations:
+      required: true
+  - type: checkboxes
+    id: check
+    attributes:
+      label: Проверка
+      options:
+        - label: Это не пиратская копия платной книги или курса
+          required: true

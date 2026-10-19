@@ -25,7 +25,11 @@
 
 ## 📍 About the roadmap
 
-Materials for getting an ML Engineer offer.
+A practical path from zero to an ML Engineer offer, tuned for the Russian job market: which stack companies here actually use, where to apply, what they ask in interviews, and what to read.
+
+Each section is a checklist. Tick things off as you go, and at the bottom of every page there are links to the previous and next sections, so you can read it like a book.
+
+The docs come in two languages, [Русский](docs/ru/01_foundations.md) and [English](docs/en/01_foundations.md). The content is the same.
 
 ---
 
@@ -75,13 +79,13 @@ flowchart TD
 
 ```mermaid
 gantt
-    title Approximate 12-month plan
+    title Approximate 12-month plan (axis = month number)
     dateFormat  YYYY-MM-DD
-    axisFormat  %m.%y
+    axisFormat  %m
 
     section Foundations
-    Python advanced + algorithms   :a1, 2026-05-01, 45d
-    Math review + statistics       :a2, 2026-05-01, 60d
+    Python advanced + algorithms   :a1, 2026-01-01, 45d
+    Math review + statistics       :a2, 2026-01-01, 60d
 
     section Data
     Advanced SQL + Pandas          :b1, after a1, 30d
@@ -97,8 +101,8 @@ gantt
     K8s + serving, Triton/vLLM/SGLang :d2, after d1, 30d
 
     section Career
-    Pet projects + GitHub          :e1, 2026-06-01, 300d
-    Internship / offer             :e2, 2026-11-01, 180d
+    Pet projects + GitHub          :e1, 2026-02-01, 300d
+    Internship / offer             :e2, 2026-07-01, 180d
 ```
 
 ---
@@ -113,7 +117,7 @@ gantt
 | 🔥 Senior | 4–6 years | 350–600k ₽ | 250–450k ₽ |
 | 👑 Lead / Staff | 6+ years | 600k–1M+ ₽ | 400–700k ₽ |
 
-> Sources: hh.ru, getmatch, Habr Career, Habr salary reports, ODS chats. Numbers depend on company, grade, and stack; LLM/CV roles usually pay above average.
+> Rough ranges as of 2026. Real numbers swing a lot by company, grade and stack, and LLM/CV roles usually pay above average. Check fresh data before negotiating: [Habr Career salaries](https://career.habr.com/salaries), [getmatch](https://getmatch.ru), [hh.ru](https://hh.ru).
 
 ---
 
@@ -154,9 +158,21 @@ gantt
 ## 🧭 How to use this repository
 
 1. Go through sections **in order**, but study math and algorithms **in parallel**.
-2. Reinforce every topic with a **project**; see [10_projects.md](docs/en/10_projects.md).
-3. Every 2 weeks, review progress and update [PROGRESS.md](PROGRESS.md).
+2. Back every topic with a **project**, ideas are in [10_projects.md](docs/en/10_projects.md).
+3. Track your progress: fork the repo and fill in [PROGRESS.md](PROGRESS.md), or open an issue from the "My progress" template in your fork.
 4. Most resources are Russian-language and practical for the Russian market.
+
+---
+
+## 🤝 Contributing
+
+Found a dead link, an outdated tool, or know a great resource that's missing? Open an [issue](../../issues/new/choose) or send a PR, see [CONTRIBUTING.md](CONTRIBUTING.md). Links are checked automatically once a month.
+
+---
+
+## 📄 License
+
+The text is licensed under [CC BY-SA 4.0](LICENSE). You can copy, translate and remix it, just credit this repo and keep the same license.
 
 ---
 

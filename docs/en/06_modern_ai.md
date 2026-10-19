@@ -93,7 +93,7 @@
 | 📘 "AI Engineering" — Chip Huyen, 2025 | ⭐⭐ |
 | 📚 [The Ultra-Scale Playbook (HF)](https://huggingface.co/spaces/nanotron/ultrascale-playbook) — distributed LLM training | ⭐⭐⭐ |
 | 🎥 [karpov.courses — NLP / LLM](https://karpov.courses/) | ⭐⭐ |
-| 📚 [ai-russia.ru](https://ai-russia.ru/) — RU model reviews | ⭐ |
+| 📚 [ai-russia.ru](https://ai-russia.ru/) — AI Alliance Russia, showcase of AI cases from Russian companies | ⭐ |
 
 ---
 
@@ -102,3 +102,8 @@
 1. Write **GPT-mini** from scratch (nanoGPT-style) and train it on a Russian dataset.
 2. **RAG bot over your own knowledge base**: documents → Qdrant → YandexGPT/GigaChat → Telegram bot.
 3. **Fine-tune an open model (Qwen3 / T-Pro / GigaChat 3)** through LoRA for your own task, deploy through vLLM, and compare with the base model on your own eval set.
+
+---
+
+<!-- nav -->
+← Back: [🧠 5. Deep Learning](05_deep_learning.md) · [Contents](../../README.md) · Next: [⚙️ 7. MLOps & Production](07_mlops.md) →

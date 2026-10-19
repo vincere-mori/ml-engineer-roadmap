@@ -76,3 +76,8 @@
 - **Derive** linear regression through least squares by yourself
 - Explain how **backpropagation** works through the chain rule
 - Design an **A/B test** for a given product case
+
+---
+
+<!-- nav -->
+← Back: [🐍 1. Foundations — Python, algorithms, CS](01_foundations.md) · [Contents](../../README.md) · Next: [🗄️ 3. Data Engineering for ML](03_data.md) →

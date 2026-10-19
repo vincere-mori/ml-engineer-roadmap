@@ -94,3 +94,8 @@ Python, PyTorch, FastAPI, Docker, …
 - [ ] Custom README на профиле (`username/username` репо)
 - [ ] Контрибьюты (хотя бы issues / docs) в open source — **большой плюс**
   - PyTorch, Hugging Face, vLLM, Qdrant, CatBoost, ClearML
+
+---
+
+<!-- nav -->
+← Назад: [💼 9. Карьера на российском рынке](09_career.md) · [Оглавление](../../README.md) · Далее: [📖 11. Ресурсы (преимущественно RU)](11_resources.md) →

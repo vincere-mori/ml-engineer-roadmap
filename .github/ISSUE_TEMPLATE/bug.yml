@@ -1,0 +1,19 @@
+name: 🐛 Ошибка или битая ссылка
+description: Ссылка не открывается, инфа устарела или просто неправда
+labels: ["bug"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Где
+      description: Файл или раздел, можно просто скопировать строку
+      placeholder: docs/ru/07_mlops.md, таблица Serving
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: Что не так и как правильно
+      description: Если знаешь актуальную ссылку или замену, напиши, сильно ускорит
+    validations:
+      required: true

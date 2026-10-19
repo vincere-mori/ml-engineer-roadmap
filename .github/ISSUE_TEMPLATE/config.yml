@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Обсудить в сообществе ODS
+    url: https://ods.ai
+    about: Общие вопросы про ML и карьеру лучше задавать там

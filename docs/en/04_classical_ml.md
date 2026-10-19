@@ -86,3 +86,8 @@
 
 1. **Kaggle competition** — get a Bronze medal (Top 10%) in any tabular competition.
 2. **Own project**: for example customer churn prediction / credit scoring / demand forecasting. Full pipeline: EDA → features → CatBoost → SHAP → REST API.
+
+---
+
+<!-- nav -->
+← Back: [🗄️ 3. Data Engineering for ML](03_data.md) · [Contents](../../README.md) · Next: [🧠 5. Deep Learning](05_deep_learning.md) →

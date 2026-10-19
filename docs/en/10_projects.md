@@ -94,3 +94,8 @@ Python, PyTorch, FastAPI, Docker, …
 - [ ] Custom profile README (`username/username` repo)
 - [ ] Contributions to open source, even issues/docs, are a **big plus**
   - PyTorch, Hugging Face, vLLM, Qdrant, CatBoost, ClearML
+
+---
+
+<!-- nav -->
+← Back: [💼 9. Career in the Russian Market](09_career.md) · [Contents](../../README.md) · Next: [📖 11. Resources, Mostly RU](11_resources.md) →

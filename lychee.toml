@@ -1,0 +1,16 @@
+max_retries = 3
+timeout = 30
+accept = ["200..=299", "403", "429"]
+exclude_path = ["LICENSE"]
+
+# эти сайты режут ботов или недоступны из github actions, проверяем руками
+exclude = [
+  '^https://stepik\.org',
+  '^https://karpov\.courses',
+  '^https://leetcode\.com',
+  '^https://codeforces\.com',
+  '^https://hh\.ru',
+  '^https://dls\.samcs\.ru',
+  '^https://t\.me',
+  '^https://www\.youtube\.com/playlist',
+]

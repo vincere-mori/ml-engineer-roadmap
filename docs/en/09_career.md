@@ -9,7 +9,7 @@
 ### What works in your favor
 - 🎓 Top technical university (ITMO / MIPT / HSE / MSU / Skoltech) — recruiters notice it
 - 📐 Strong math foundation → DL and theory become easier
-- 🗄️ Data Engineering basics → a **rare** combination for a junior, makes the candidate more valuable
+- 🗄️ If you know Data Engineering, that's a **rare** combo for a junior and a real plus on your resume
 - 💪 Time before graduation — opportunity to get an internship
 
 ### Concrete 12-month plan
@@ -39,7 +39,7 @@
 - 🎯 **[getmatch.ru](https://getmatch.ru)** — IT offers, transparent salaries
 - 🎯 **[habr.com/career](https://career.habr.com)** — Habr Career
 - 🎯 **[geekjob.ru](https://geekjob.ru)**
-- 💬 **Telegram channels**: ODS Jobs, Data Science Jobs, ML Jobs RU
+- 💬 **Telegram**: [Data Science Jobs](https://t.me/datasciencejobs), job posts in the [ODS](https://ods.ai) community
 
 ### Additional tracks
 - 🎓 **Yandex School of Data Analysis** — admission ↔ almost guaranteed path to Yandex offers
@@ -96,3 +96,8 @@
 - **Data Coffee** — podcast
 - Local meetups and student labs at technical universities
 - Local events: ML Party (T-Bank), Data Fest, AI Journey (Sber)
+
+---
+
+<!-- nav -->
+← Back: [🏗️ 8. ML System Design](08_system_design.md) · [Contents](../../README.md) · Next: [🎯 10. Pet Projects and Portfolio](10_projects.md) →

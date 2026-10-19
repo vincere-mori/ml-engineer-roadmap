@@ -93,7 +93,7 @@
 | 📘 «AI Engineering» — Chip Huyen, 2025 | ⭐⭐ |
 | 📚 [The Ultra-Scale Playbook (HF)](https://huggingface.co/spaces/nanotron/ultrascale-playbook) — распределённое обучение LLM | ⭐⭐⭐ |
 | 🎥 [karpov.courses — NLP / LLM](https://karpov.courses/) | ⭐⭐ |
-| 📚 [ai-russia.ru](https://ai-russia.ru/) — обзоры RU моделей | ⭐ |
+| 📚 [ai-russia.ru](https://ai-russia.ru/) — Альянс в сфере ИИ, витрина ИИ-кейсов российских компаний | ⭐ |
 
 ---
 
@@ -102,3 +102,8 @@
 1. С нуля написать **GPT-mini** (по nanoGPT) и обучить на русском датасете.
 2. **RAG-бот по своей базе знаний**: документы → Qdrant → YandexGPT/GigaChat → Telegram-бот.
 3. **Fine-tune открытой модели (Qwen3 / T-Pro / GigaChat 3)** через LoRA на своей задаче, задеплоить через vLLM и сравнить с базой на своём eval-наборе.
+
+---
+
+<!-- nav -->
+← Назад: [🧠 5. Deep Learning](05_deep_learning.md) · [Оглавление](../../README.md) · Далее: [⚙️ 7. MLOps & Production](07_mlops.md) →

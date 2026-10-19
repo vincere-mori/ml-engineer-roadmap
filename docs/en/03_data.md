@@ -2,7 +2,7 @@
 
 > Russian version: [03_data.md](../ru/03_data.md)
 
-> If you already have DE basics, that is a huge plus. An ML Engineer without DE skills is limited in real-world tasks. Here is what you **must** strengthen and lock in.
+> In real work an ML engineer spends half the time on data, not models. If you come from DE, you already have a head start. If not, don't skip this one: below is what you **must** be able to do.
 
 ---
 
@@ -85,3 +85,8 @@ An ETL pipeline in Airflow:
 3. Loads it into PostgreSQL and ClickHouse.
 4. Builds a data mart for a dashboard (Superset/Metabase).
 5. Deploys through `docker-compose`.
+
+---
+
+<!-- nav -->
+← Back: [📐 2. Math for ML](02_math.md) · [Contents](../../README.md) · Next: [🤖 4. Classical ML](04_classical_ml.md) →

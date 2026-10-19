@@ -58,3 +58,8 @@ Write a Python **CLI utility** that:
 - is packaged with `uv` (`pyproject.toml` + `uv.lock`),
 - has a `Dockerfile`,
 - is published on GitHub with README + GitHub Actions (lint + tests).
+
+---
+
+<!-- nav -->
+[Contents](../../README.md) · Next: [📐 2. Math for ML](02_math.md) →

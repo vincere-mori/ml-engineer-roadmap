@@ -114,3 +114,8 @@
 9. README с архитектурной схемой
 
 → Это **сильнейший pet-проект** для резюме.
+
+---
+
+<!-- nav -->
+← Назад: [💬 6. Modern AI — NLP, LLM, RAG](06_modern_ai.md) · [Оглавление](../../README.md) · Далее: [🏗️ 8. ML System Design](08_system_design.md) →

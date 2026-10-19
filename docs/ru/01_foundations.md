@@ -58,3 +58,8 @@
 - собрана через `uv` (`pyproject.toml` + `uv.lock`),
 - имеет `Dockerfile`,
 - лежит на GitHub с README + GitHub Actions (lint + tests).
+
+---
+
+<!-- nav -->
+[Оглавление](../../README.md) · Далее: [📐 2. Математика для ML](02_math.md) →

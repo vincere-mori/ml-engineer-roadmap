@@ -69,17 +69,16 @@
 
 - **Хабр** — теги [machine_learning, ml, llm]
 - **Telegram-каналы**:
-  - Сиолошная (Игорь Котенков)
-  - Метаверсище и ИИще
-  - AI для всех
-  - Speech Info
-  - Data Eng
-  - DLStories
-  - эйай ньюз
+  - [Сиолошная](https://t.me/seeallochnaya) (Игорь Котенков)
+  - [Метаверсище и ИИще](https://t.me/cgevent)
+  - [AI для всех](https://t.me/nn_for_science)
+  - [Speech Info](https://t.me/speechinfo)
+  - [Инжиниринг Данных](https://t.me/rockyourdata)
+  - [DLStories](https://t.me/dl_stories)
+  - [эйай ньюз](https://t.me/ai_newz)
 - **Подкасты**:
-  - Data Coffee
-  - Подкаст ИИ-Подкаст (Yandex)
-  - Запуск завтра (T-Bank)
+  - [Data Coffee](https://datacoffee.link)
+  - Запуск завтра (Самат Галимов)
 - **Конференции**:
   - **AI Journey** (Sber, ноябрь)
   - **Data Fest** (ODS, лето)
@@ -105,3 +104,8 @@
 - **Yandex DataSphere** — есть бесплатные кредиты
 - **Hugging Face Spaces** — деплой моделей бесплатно
 - **GitHub Codespaces** — облачная IDE
+
+---
+
+<!-- nav -->
+← Назад: [🎯 10. Pet-проекты и портфолио](10_projects.md) · [Оглавление](../../README.md)

@@ -114,3 +114,8 @@
 9. README with an architecture diagram
 
 → This is a **very strong pet project** for your resume.
+
+---
+
+<!-- nav -->
+← Back: [💬 6. Modern AI — NLP, LLM, RAG](06_modern_ai.md) · [Contents](../../README.md) · Next: [🏗️ 8. ML System Design](08_system_design.md) →
