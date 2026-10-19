@@ -221,7 +221,7 @@ gantt
 
 ## Contributing
 
-Found a dead link, an outdated tool, or know a great resource that's missing? Open an [issue](../../issues/new/choose) or send a PR, see [CONTRIBUTING.en.md](CONTRIBUTING.en.md). Links are checked automatically once a month.
+Found a dead link, an outdated tool, or know a great resource that's missing? Open an [issue](https://github.com/vincere-mori/ml-engineer-roadmap/issues/new/choose) or send a PR, see [CONTRIBUTING.en.md](CONTRIBUTING.en.md). Links are checked automatically once a month.
 
 ## License
 

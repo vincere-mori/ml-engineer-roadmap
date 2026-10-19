@@ -13,7 +13,7 @@ Thanks for stopping by. ML moves fast and I can't keep track of everything alone
 
 ## How to suggest something
 
-**The easiest way** is to open an [issue](../../issues/new/choose). There are templates for "Suggest a resource" and "Error or dead link". A couple of lines is enough.
+**The easiest way** is to open an [issue](https://github.com/vincere-mori/ml-engineer-roadmap/issues/new/choose). There are templates for "Suggest a resource" and "Error or dead link". A couple of lines is enough.
 
 **If you want to fix it yourself**, send a PR:
 
