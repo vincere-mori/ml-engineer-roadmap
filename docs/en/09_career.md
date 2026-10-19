@@ -22,7 +22,7 @@
 
 ## 🏢 Where to Look for Jobs
 
-### Internships (must-apply, early 2026 → summer 2026)
+### Internships (must-apply, applications usually winter → spring, start in summer)
 - **Yandex** — Yandex Internship, several tracks per year
 - **Sber** — School 21 / SberAI internships
 - **T-Bank Generation** + T-Bank IT
@@ -91,9 +91,8 @@
 
 ## 🗣️ Communities
 
-- **ODS.ai** — Slack, the #1 Russian-language ML community
+- **[ODS.ai](https://ods.ai)** — the #1 Russian-language ML community (Slack closed in 2022, now ods.ai + Mattermost + Telegram)
 - **ML Trainings** — Yandex meetups
 - **Data Coffee** — podcast
-- **AI Today** — Telegram
 - Local meetups and student labs at technical universities
 - Local events: ML Party (T-Bank), Data Fest, AI Journey (Sber)

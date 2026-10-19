@@ -19,7 +19,7 @@
 ## 📦 Версионирование
 
 - [ ] **Git** для кода
-- [ ] **DVC** / **LakeFS** для данных
+- [ ] **DVC** / **lakeFS** для данных
 - [ ] **MLflow Model Registry** / **Weights & Biases Artifacts** — для моделей
 - [ ] Модельные карточки (Model Cards)
 
@@ -29,7 +29,7 @@
 
 - [ ] **MLflow Tracking** — запуски, метрики, артефакты
 - [ ] **Weights & Biases** — современнее, удобнее
-- [ ] **ClearML** — российская опция (бывшая Allegro)
+- [ ] **ClearML** — open source, можно поднять у себя (актуально, когда SaaS недоступен)
 - [ ] Hydra / OmegaConf — конфиги экспериментов
 
 ---
@@ -41,9 +41,9 @@
 | **FastAPI + Uvicorn** | простые модели, REST/JSON |
 | **gRPC** | низкая latency, бинарные данные |
 | **Triton Inference Server** | продакшен GPU, мульти-модели |
-| **TorchServe** | PyTorch-only |
 | **Ray Serve** | масштабирование, autoscaling |
-| **vLLM / TGI** | LLM inference |
+| **vLLM / SGLang** | LLM inference |
+| **KServe / BentoML** | serving в k8s / упаковка моделей |
 | **ONNX Runtime / TensorRT** | оптимизация под железо |
 
 - [ ] Батчинг запросов
@@ -71,7 +71,8 @@
   - latency, throughput, RPS
   - data drift, concept drift
   - prediction distribution
-- [ ] **Evidently AI** — ML-мониторинг (open source, RU-разработка)
+- [ ] **Evidently AI** — ML-мониторинг (open source)
+- [ ] LLM-мониторинг: трейсинг, стоимость токенов, качество ответов (Langfuse, Phoenix)
 - [ ] Алертинг
 
 ---
@@ -94,7 +95,7 @@
 | 🎥 [karpov.courses — MLOps](https://karpov.courses/mlops) | ⭐⭐ |
 | 📘 «Designing Machine Learning Systems» — Chip Huyen | ⭐⭐⭐ |
 | 📘 «Machine Learning Engineering» — Andriy Burkov | ⭐⭐ |
-| 🎥 [MLOps Community (YouTube)](https://www.youtube.com/@MLOps) | ⭐⭐ |
+| 🎥 [MLOps Community](https://mlops.community/) | ⭐⭐ |
 | 📚 [Awesome MLOps](https://github.com/visenger/awesome-mlops) | — |
 
 ---

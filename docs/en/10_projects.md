@@ -34,12 +34,13 @@
 7. **🔥 RAG bot over your own domain knowledge base** — Qdrant + GigaChat/YandexGPT + Telegram
 8. **🔥 Recommender** for anime/movies/books — two-tower + ANN (FAISS) + A/B simulation
 9. **🔥 End-to-end MLOps platform** — model + DVC + MLflow + k8s + Prometheus + Evidently
-10. **🔥 Fine-tune Saiga/T-lite through LoRA** for a concrete task + vLLM serving + quality benchmark
+10. **🔥 Fine-tune an open LLM (Qwen3 / T-Pro / GigaChat 3) through LoRA** for a concrete task + vLLM serving + your own eval set
+11. **🔥 Agent with MCP tools** — e.g. an assistant over your own DB or API, with Langfuse tracing and quality evaluation
 
 ### 🤖 Robotics + ML, if the area is interesting
-11. **RL agent** for a manipulator in simulation (Isaac Sim / MuJoCo)
-12. **Robot CV**: detection + tracking + grasp prediction
-13. **VLA (Vision-Language-Action)** — mini RT-2-like project in simulation
+12. **RL agent** for a manipulator in simulation (Isaac Sim / MuJoCo)
+13. **Robot CV**: detection + tracking + grasp prediction
+14. **VLA (Vision-Language-Action)** — fine-tune an open VLA (OpenVLA, π0 / LeRobot) in simulation
 
 ---
 
@@ -92,4 +93,4 @@ Python, PyTorch, FastAPI, Docker, …
 - [ ] Filled bio with CV/Telegram link
 - [ ] Custom profile README (`username/username` repo)
 - [ ] Contributions to open source, even issues/docs, are a **big plus**
-  - PyTorch, Hugging Face, Qdrant, CatBoost, ClearML, Albumentations
+  - PyTorch, Hugging Face, vLLM, Qdrant, CatBoost, ClearML

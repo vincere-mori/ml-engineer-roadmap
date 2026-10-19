@@ -46,7 +46,7 @@
 - [ ] **PyTorch Lightning** — cleaner code
 - [ ] **Hugging Face Transformers / Datasets / Accelerate**
 - [ ] **timm** — pretrained CV models
-- [ ] **Albumentations** — augmentations (Russian-made!)
+- [ ] **Albumentations** — augmentations (original repo archived in 2025, continued as AlbumentationsX under AGPL; alternative: `torchvision.transforms.v2`)
 - [ ] **Weights & Biases** / **TensorBoard** — logging
 - [ ] Mixed precision (`torch.amp`), `torch.compile`
 - [ ] Distributed training (DDP)
@@ -62,8 +62,9 @@
 | 🥇 [Yandex School of Data Analysis — Deep Learning Handbook](https://education.yandex.ru/handbook/ml) | ⭐⭐⭐ |
 | 🎥 [Stanford CS231n](http://cs231n.stanford.edu/) — CV | ⭐⭐⭐ |
 | 🎥 [Stanford CS224n](https://web.stanford.edu/class/cs224n/) — NLP | ⭐⭐⭐ |
-| 📘 "Deep Learning" — Goodfellow | ⭐⭐⭐ |
-| 📘 "Dive into Deep Learning" (d2l.ai) — has RU translation | ⭐⭐ |
+| 📘 "Deep Learning" — Goodfellow ([free online](https://www.deeplearningbook.org/)) | ⭐⭐⭐ |
+| 📘 "Deep Learning: Foundations and Concepts" — Bishop, 2024 ([free online](https://www.bishopbook.com/)) | ⭐⭐⭐ |
+| 📘 ["Dive into Deep Learning"](https://d2l.ai/) — free, PyTorch code | ⭐⭐ |
 | 🎥 [karpov.courses — DL](https://karpov.courses/) | ⭐⭐ |
 | 🎥 Andrej Karpathy — Neural Networks: Zero to Hero | ⭐⭐⭐ |
 

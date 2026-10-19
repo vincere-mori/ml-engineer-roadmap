@@ -11,7 +11,7 @@
 | 🔗 [ШАД ML Handbook](https://education.yandex.ru/handbook/ml) | Учебник Yandex от ML до DL | 🆓 |
 | 🔗 [Deep Learning School МФТИ](https://dls.samcs.ru/) | Полный DL курс на русском | 🆓 |
 | 🔗 [mlcourse.ai (ODS)](https://mlcourse.ai/) | Classical ML | 🆓 |
-| 🔗 [ODS.ai Slack](https://opendatascience.slack.com) | Сообщество ML в РФ | 🆓 |
+| 🔗 [ODS.ai](https://ods.ai) | Сообщество ML в РФ | 🆓 |
 | 🔗 [karpov.courses](https://karpov.courses/) | Платные курсы (ML, MLOps, DE, A/B) | 💰 |
 | 🔗 [Stepik](https://stepik.org/) | Куча бесплатных курсов | 🆓/💰 |
 
@@ -35,8 +35,6 @@
 - **Computer Science Center**
 - **karpov.courses**
 - **Хирьянов** — Python и алгоритмы
-- **Gradient** — обзоры ML-статей на русском
-- **AI Today** — продуктовый AI
 
 ## 📺 YouTube (EN, обязательно)
 
@@ -50,13 +48,20 @@
 
 ## 📚 Книги (по приоритету)
 
-1. 🥇 **«Hands-On Machine Learning»** — Aurélien Géron (есть RU перевод «Прикладное ML»)
-2. 🥇 **«Deep Learning»** — Гудфеллоу, Бенжио (RU перевод есть)
-3. 🥇 **«Designing Machine Learning Systems»** — Chip Huyen
-4. **«Pattern Recognition and Machine Learning»** — Bishop
-5. **«Probabilistic ML»** — Kevin Murphy
-6. **«Build a LLM from Scratch»** — Sebastian Raschka
-7. **«Fluent Python»** — Ramalho
+> 🆓 = автор официально выложил книгу бесплатно. Остальные покупаются (бумага/электронка в «Питере», ДМК, Litres). PDF книг в репозиторий не выкладываем: это нарушение авторских прав, и GitHub удаляет такое по DMCA.
+
+| # | Книга | RU издание | Бесплатно |
+|---|---|---|:---:|
+| 🥇 | «Hands-On Machine Learning» — Aurélien Géron | «Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow» | — |
+| 🥇 | «Deep Learning» — Goodfellow, Bengio, Courville | «Глубокое обучение» | [🆓 EN](https://www.deeplearningbook.org/) |
+| 🥇 | «Designing Machine Learning Systems» — Chip Huyen | «Проектирование систем машинного обучения» | — |
+| 🥇 | «AI Engineering» — Chip Huyen, 2025 | — | — |
+| | «Deep Learning: Foundations and Concepts» — Bishop, 2024 | — | [🆓 EN](https://www.bishopbook.com/) |
+| | «Probabilistic Machine Learning» — Kevin Murphy | — | [🆓 EN](https://probml.github.io/pml-book/) |
+| | «An Introduction to Statistical Learning (Python)» — James et al. | — | [🆓 EN](https://www.statlearning.com/) |
+| | «Dive into Deep Learning» — Zhang et al. | — | [🆓 EN](https://d2l.ai/) |
+| | «Build a LLM from Scratch» — Sebastian Raschka | — | [код 🆓](https://github.com/rasbt/LLMs-from-scratch) |
+| | «Fluent Python» — Ramalho | «Python. К вершинам мастерства» | — |
 
 ---
 
@@ -79,7 +84,7 @@
   - **AI Journey** (Sber, ноябрь)
   - **Data Fest** (ODS, лето)
   - **Yandex Scale**
-  - **Practical ML Conf**
+  - **Practical ML Conf** (Yandex)
   - **OpenTalks.AI**
 
 ---
@@ -88,9 +93,8 @@
 
 - 🔗 [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 - 🔗 [Eugene Yan applied-ml](https://github.com/eugeneyan/applied-ml)
-- 🔗 [ml-engineer-roadmap (en)](https://github.com/chris-chris/ml-engineer-roadmap)
 - 🔗 [Yandex ML Handbook](https://github.com/yandexdataschool)
-- 🔗 [Hugging Face cookbook](https://huggingface.co/learn)
+- 🔗 [Hugging Face Learn](https://huggingface.co/learn) — курсы и cookbook
 
 ---
 

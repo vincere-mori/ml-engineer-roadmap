@@ -30,6 +30,7 @@
 - [ ] Pandas: groupby, merge, pivot, apply vs vectorize
 - [ ] Memory optimization (`category`, `int8`)
 - [ ] **Polars** — modern Pandas alternative: faster, lazy execution plan
+- [ ] **DuckDB** — SQL over Parquet/CSV right in a notebook, no server
 - [ ] EDA: dataset profiling, anomaly search
 
 ---
@@ -71,7 +72,7 @@
 | OLAP | ClickHouse, Greenplum | Yandex, Avito, X5 |
 | DWH | Snowflake, BigQuery (less common in Russia) | — |
 | Data Lake | S3 / HDFS + Parquet/Iceberg | Sber, T-Bank |
-| Vector DB | Qdrant (Russia!), Milvus, Weaviate | LLM/RAG |
+| Vector DB | Qdrant, Milvus, Weaviate, pgvector | LLM/RAG |
 | Feature Store | Feast, in-house solutions | Yandex, Sber |
 
 ---

@@ -11,7 +11,7 @@
 | 🔗 [Yandex School of Data Analysis ML Handbook](https://education.yandex.ru/handbook/ml) | Yandex textbook from ML to DL | 🆓 |
 | 🔗 [Deep Learning School MIPT](https://dls.samcs.ru/) | Full DL course in Russian | 🆓 |
 | 🔗 [mlcourse.ai (ODS)](https://mlcourse.ai/) | Classical ML | 🆓 |
-| 🔗 [ODS.ai Slack](https://opendatascience.slack.com) | ML community in Russia | 🆓 |
+| 🔗 [ODS.ai](https://ods.ai) | ML community in Russia | 🆓 |
 | 🔗 [karpov.courses](https://karpov.courses/) | Paid courses: ML, MLOps, DE, A/B | 💰 |
 | 🔗 [Stepik](https://stepik.org/) | Many free courses | 🆓/💰 |
 
@@ -35,8 +35,6 @@
 - **Computer Science Center**
 - **karpov.courses**
 - **Khiryanov** — Python and algorithms
-- **Gradient** — ML paper reviews in Russian
-- **AI Today** — product AI
 
 ## 📺 YouTube (EN, must-watch)
 
@@ -50,13 +48,20 @@
 
 ## 📚 Books, by Priority
 
-1. 🥇 **"Hands-On Machine Learning"** — Aurélien Géron, has RU translation
-2. 🥇 **"Deep Learning"** — Goodfellow, Bengio, has RU translation
-3. 🥇 **"Designing Machine Learning Systems"** — Chip Huyen
-4. **"Pattern Recognition and Machine Learning"** — Bishop
-5. **"Probabilistic ML"** — Kevin Murphy
-6. **"Build a LLM from Scratch"** — Sebastian Raschka
-7. **"Fluent Python"** — Ramalho
+> 🆓 = the author published the book for free officially. The rest are paid. This repo does not host book PDFs: that is copyright infringement and GitHub removes it under DMCA.
+
+| # | Book | Free |
+|---|---|:---:|
+| 🥇 | "Hands-On Machine Learning" — Aurélien Géron (RU translation exists) | — |
+| 🥇 | "Deep Learning" — Goodfellow, Bengio, Courville (RU translation exists) | [🆓](https://www.deeplearningbook.org/) |
+| 🥇 | "Designing Machine Learning Systems" — Chip Huyen (RU translation exists) | — |
+| 🥇 | "AI Engineering" — Chip Huyen, 2025 | — |
+| | "Deep Learning: Foundations and Concepts" — Bishop, 2024 | [🆓](https://www.bishopbook.com/) |
+| | "Probabilistic Machine Learning" — Kevin Murphy | [🆓](https://probml.github.io/pml-book/) |
+| | "An Introduction to Statistical Learning (Python)" — James et al. | [🆓](https://www.statlearning.com/) |
+| | "Dive into Deep Learning" — Zhang et al. | [🆓](https://d2l.ai/) |
+| | "Build a LLM from Scratch" — Sebastian Raschka | [code 🆓](https://github.com/rasbt/LLMs-from-scratch) |
+| | "Fluent Python" — Ramalho (RU translation exists) | — |
 
 ---
 
@@ -88,7 +93,6 @@
 
 - 🔗 [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 - 🔗 [Eugene Yan applied-ml](https://github.com/eugeneyan/applied-ml)
-- 🔗 [ml-engineer-roadmap (en)](https://github.com/chris-chris/ml-engineer-roadmap)
 - 🔗 [Yandex ML Handbook](https://github.com/yandexdataschool)
 - 🔗 [Hugging Face cookbook](https://huggingface.co/learn)
 

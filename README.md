@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 ![Level](https://img.shields.io/badge/level-junior%E2%86%92senior-blue?style=for-the-badge)
 ![Market](https://img.shields.io/badge/market-Russia%20%F0%9F%87%B7%F0%9F%87%BA-red?style=for-the-badge)
-![Updated](https://img.shields.io/badge/updated-2026--05-orange?style=for-the-badge)
+![Updated](https://img.shields.io/badge/updated-2026--10-orange?style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -94,7 +94,7 @@ gantt
 
     section MLOps
     Docker, FastAPI, MLflow, CI/CD :d1, after c2, 45d
-    K8s + serving, Triton/vLLM     :d2, after d1, 30d
+    K8s + serving, Triton/vLLM/SGLang :d2, after d1, 30d
 
     section Career
     Pet projects + GitHub          :e1, 2026-06-01, 300d
@@ -142,7 +142,7 @@ gantt
 - [ ] Classical ML: explain bias/variance, regularization, boosting internals
 - [ ] Deep Learning: implemented backprop, CNN, Transformer by hand
 - [ ] PyTorch: can write a train loop without copy-paste
-- [ ] LLM: attention, KV-cache, RAG, fine-tuning (LoRA)
+- [ ] LLM: attention, KV-cache, RAG, fine-tuning (LoRA), evals, agents/MCP
 - [ ] MLOps: deployed a model with Docker + FastAPI + monitoring
 - [ ] System Design: studied 3+ cases: recommendations, search, fraud, NLP service
 - [ ] Portfolio: 2–3 strong pet projects on GitHub

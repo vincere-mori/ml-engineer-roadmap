@@ -16,8 +16,8 @@
 - [ ] Асинхронность: `asyncio`, `async/await`
 - [ ] Многопоточность vs многопроцессорность, GIL
 - [ ] Тесты: `pytest`, фикстуры, моки, coverage
-- [ ] Менеджмент зависимостей: `poetry` / `uv` / `pip-tools`
-- [ ] Линтеры/форматтеры: `ruff`, `black`, `pre-commit`
+- [ ] Менеджмент зависимостей: **`uv`** (стандарт де-факто с 2025), `poetry` в легаси-проектах
+- [ ] Линтеры/форматтеры: `ruff` (lint + format, заменил black/isort/flake8), `pre-commit`, тайпчекер `mypy` / `pyright`
 
 ### Computer Science
 - [ ] Структуры данных: list, dict, set, deque, heap, trie
@@ -38,10 +38,10 @@
 
 | Тип | Ресурс | Уровень |
 |---|---|:---:|
-| 📖 Книга | «Fluent Python» Лучано Рамальо | ⭐⭐⭐ |
+| 📖 Книга | «Fluent Python» Лучано Рамальо (RU: «Python. К вершинам мастерства», 2-е изд.) | ⭐⭐⭐ |
 | 🎥 Курс | [Поколение Python (Stepik)](https://stepik.org/course/58852) | ⭐ |
 | 🎥 Курс | [Алгоритмы: теория и практика — Computer Science Center](https://stepik.org/course/217) | ⭐⭐ |
-| 🎥 Курс | [ШАД — Алгоритмы и структуры данных](https://education.yandex.ru/handbook/algorithms) | ⭐⭐⭐ |
+| 🎥 Курс | [Яндекс — Тренировки по алгоритмам](https://contest.yandex.ru/tracks/algorithms/) | ⭐⭐⭐ |
 | 💻 Практика | [LeetCode](https://leetcode.com) — 100–150 задач Easy/Medium | ⭐⭐ |
 | 💻 Практика | [Codeforces](https://codeforces.com) | ⭐⭐ |
 | 🎥 Linux | [Курс «Введение в Linux» (Stepik)](https://stepik.org/course/73) | ⭐ |
@@ -55,6 +55,6 @@
 - парсит CSV/JSON,
 - считает простую статистику,
 - покрыта тестами `pytest` (≥80% coverage),
-- собрана через `poetry`,
+- собрана через `uv` (`pyproject.toml` + `uv.lock`),
 - имеет `Dockerfile`,
 - лежит на GitHub с README + GitHub Actions (lint + tests).

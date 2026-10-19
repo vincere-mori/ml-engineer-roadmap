@@ -30,7 +30,7 @@
 | 💳 **Антифрод / скоринг** | T-Bank, Sber, Альфа |
 | 📨 **Спам / модерация** | VK, Avito, Yandex Mail |
 | 💬 **Чат-бот / RAG** | Sber GigaChat, Yandex, T-Bank |
-| 🚗 **ETA / прогноз времени** | Yandex Go, Delivery Club |
+| 🚗 **ETA / прогноз времени** | Yandex Go, Яндекс Еда, Самокат |
 | 📈 **Прогноз спроса** | X5, Wildberries, Ozon |
 | 🎨 **Генерация изображений** | Sber Kandinsky, Yandex Шедеврум |
 | 👀 **Detection / face ID** | Yandex, VK, банки |

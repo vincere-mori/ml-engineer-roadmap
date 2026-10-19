@@ -22,7 +22,7 @@
 
 ## 🏢 Где искать работу
 
-### Стажировки (must-apply, начало 2026 → лето 2026)
+### Стажировки (must-apply, набор обычно зима → весна, старт летом)
 - **Yandex** — Yandex Internship (несколько потоков в год)
 - **Sber** — School21 / SberAI стажировки
 - **T-Bank Generation** + T-Bank IT's tinkoff
@@ -91,9 +91,8 @@
 
 ## 🗣️ Сообщества
 
-- **ODS.ai** — Slack (русскоязычное ML-сообщество №1)
+- **[ODS.ai](https://ods.ai)** — русскоязычное ML-сообщество №1 (Slack закрыт в 2022, сейчас ods.ai + Mattermost + Telegram)
 - **ML Trainings** — митапы Yandex
 - **Data Coffee** — подкаст
-- **AI Today** — Telegram
 - Локальные митапы и студенческие лаборатории при технических вузах
 - Local meetups: ML Party (T-Bank), Data Fest, AI Journey (Sber)

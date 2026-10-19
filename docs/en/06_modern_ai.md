@@ -2,7 +2,7 @@
 
 > Russian version: [06_modern_ai.md](../ru/06_modern_ai.md)
 
-> The hottest and **highest-paid** niche in 2025–2026. In Russia: Yandex (YandexGPT, Alice), Sber (GigaChat, Kandinsky), T-Bank, MTS AI, Avito.
+> The hottest and **highest-paid** niche in 2026. In Russia: Yandex (YandexGPT, Alice), Sber (GigaChat, Kandinsky), T-Bank, MTS AI, Avito.
 
 ---
 
@@ -34,22 +34,26 @@
 - [ ] **Instruction tuning, RLHF, DPO**
 - [ ] Quantization (GPTQ, AWQ, bitsandbytes)
 - [ ] **PEFT / LoRA / QLoRA** — fine-tune on your own hardware
-- [ ] Inference optimization: vLLM, TGI, llama.cpp, **Triton Inference Server**
+- [ ] **Reasoning models and RL post-training**: chain-of-thought, test-time compute, GRPO / RLVR
+- [ ] Architecture trends: MoE, GQA/MLA, long context, FlashAttention
+- [ ] Inference optimization: **vLLM**, **SGLang**, llama.cpp, speculative decoding, **Triton Inference Server** (TGI archived in 2026)
+- [ ] Structured outputs (JSON schema), constrained decoding
+- [ ] **Evals**: benchmarks, LLM-as-a-judge, your own task eval set; Russian benchmarks MERA, ruMTEB
 
 ### Russian LLMs
-- [ ] **YandexGPT** API
-- [ ] **GigaChat** API (Sber)
-- [ ] Open-source: Saiga, ruGPT, T-lite
+- [ ] **YandexGPT** API, **GigaChat** API (Sber)
+- [ ] Open weights: **GigaChat 3** (`ai-sage`, MoE), **T-Pro 2.0** (`t-tech`), **YandexGPT-5-Lite-8B** (`yandex`)
+- [ ] In practice, Russian teams often fine-tune open **Qwen3**-class models; Saiga (Ilya Gusev) as a Russification example
 
 ---
 
 ## 🔎 RAG (Retrieval-Augmented Generation)
 
-> The most in-demand product pattern in 2025–2026.
+> The most in-demand product pattern in 2025–2026, increasingly combined with agents (agentic RAG).
 
 - [ ] Pipeline: chunking → embeddings → vector DB → retrieve → rerank → generate
-- [ ] Embedding models (e5, BGE, sbert), Russian: `intfloat/multilingual-e5`, `ai-forever/sbert_large_nlu_ru`
-- [ ] **Vector DB**: **Qdrant** (Russian!), Milvus, pgvector
+- [ ] Embedding models (e5, BGE-M3), Russian: `ai-forever/FRIDA`, `ai-sage/Giga-Embeddings-instruct`, `deepvk/USER-bge-m3`, `intfloat/multilingual-e5` (compare on ruMTEB)
+- [ ] **Vector DB**: **Qdrant**, Milvus, pgvector
 - [ ] Hybrid search (BM25 + dense)
 - [ ] Rerankers (Cohere, BGE-reranker)
 - [ ] Frameworks: **LangChain**, **LlamaIndex**, **Haystack**
@@ -59,9 +63,9 @@
 
 ## 👁️ Modern CV
 
-- [ ] CLIP, SAM, DINOv2
-- [ ] Multimodal: LLaVA, Qwen-VL
-- [ ] Diffusion: SD, ControlNet, LoRA for SD
+- [ ] CLIP / SigLIP, SAM 2, DINOv3
+- [ ] VLMs: Qwen-VL, LLaVA (as a learning architecture)
+- [ ] Diffusion and flow matching: SD, FLUX, ControlNet, LoRA
 - [ ] **Kandinsky** (Sber) — open-source, can be fine-tuned
 
 ---
@@ -70,8 +74,10 @@
 
 - [ ] Function/tool calling
 - [ ] ReAct, plan-and-execute
-- [ ] Multi-agent (CrewAI, AutoGen)
-- [ ] MCP (Model Context Protocol)
+- [ ] Frameworks: LangGraph, PydanticAI, smolagents (CrewAI / AutoGen as an overview)
+- [ ] **MCP (Model Context Protocol)** — the standard way to plug in tools
+- [ ] Agent evals and tracing: Langfuse, Arize Phoenix
+- [ ] Security: prompt injection, guardrails
 
 ---
 
@@ -79,11 +85,13 @@
 
 | Resource | Level |
 |---|:---:|
-| 🥇 [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course) | ⭐⭐ |
+| 🥇 [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) | ⭐⭐ |
+| 🥇 [Stanford CS336 — Language Modeling from Scratch](https://stanford-cs336.github.io/) | ⭐⭐⭐ |
 | 🥇 [Stanford CS224n](https://web.stanford.edu/class/cs224n/) | ⭐⭐⭐ |
 | 🎥 Andrej Karpathy — "Let's build GPT" / nanoGPT | ⭐⭐⭐ |
-| 🎥 [GPT School — Alexey Zhdanov](https://www.youtube.com/@gptchatru) | ⭐ |
-| 📘 "Build a Large Language Model from Scratch" — Sebastian Raschka | ⭐⭐⭐ |
+| 📘 "Build a Large Language Model from Scratch" — Sebastian Raschka ([free code](https://github.com/rasbt/LLMs-from-scratch)) | ⭐⭐⭐ |
+| 📘 "AI Engineering" — Chip Huyen, 2025 | ⭐⭐ |
+| 📚 [The Ultra-Scale Playbook (HF)](https://huggingface.co/spaces/nanotron/ultrascale-playbook) — distributed LLM training | ⭐⭐⭐ |
 | 🎥 [karpov.courses — NLP / LLM](https://karpov.courses/) | ⭐⭐ |
 | 📚 [ai-russia.ru](https://ai-russia.ru/) — RU model reviews | ⭐ |
 
@@ -93,4 +101,4 @@
 
 1. Write **GPT-mini** from scratch (nanoGPT-style) and train it on a Russian dataset.
 2. **RAG bot over your own knowledge base**: documents → Qdrant → YandexGPT/GigaChat → Telegram bot.
-3. **Fine-tune Saiga / T-lite** through LoRA for your own task and deploy through vLLM.
+3. **Fine-tune an open model (Qwen3 / T-Pro / GigaChat 3)** through LoRA for your own task, deploy through vLLM, and compare with the base model on your own eval set.

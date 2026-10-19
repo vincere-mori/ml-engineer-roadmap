@@ -34,12 +34,13 @@
 7. **🔥 RAG-бот по своей доменной базе** — Qdrant + GigaChat/YandexGPT + Telegram
 8. **🔥 Recommender** для аниме/фильмов/книг — two-tower + ANN (FAISS) + A/B симуляция
 9. **🔥 End-to-end MLOps платформа** — модель + DVC + MLflow + k8s + Prometheus + Evidently
-10. **🔥 Fine-tune Saiga/T-lite через LoRA** под конкретную задачу + vLLM serving + бенчмарк качества
+10. **🔥 Fine-tune открытой LLM (Qwen3 / T-Pro / GigaChat 3) через LoRA** под конкретную задачу + vLLM serving + свой eval-набор
+11. **🔥 Агент с MCP-инструментами** — например, ассистент по своей БД или API, с трейсингом в Langfuse и оценкой качества
 
 ### 🤖 Robotics + ML (если интересна область)
-11. **RL агент** для манипулятора в симуляторе (Isaac Sim / MuJoCo)
-12. **CV для робота**: детекция + трекинг + grasp prediction
-13. **VLA (Vision-Language-Action)** — мини-копия RT-2 на симуляторе
+12. **RL агент** для манипулятора в симуляторе (Isaac Sim / MuJoCo)
+13. **CV для робота**: детекция + трекинг + grasp prediction
+14. **VLA (Vision-Language-Action)** — дообучить открытую VLA (OpenVLA, π0 / LeRobot) в симуляторе
 
 ---
 
@@ -92,4 +93,4 @@ Python, PyTorch, FastAPI, Docker, …
 - [ ] Заполненный bio (ссылка на CV/Telegram)
 - [ ] Custom README на профиле (`username/username` репо)
 - [ ] Контрибьюты (хотя бы issues / docs) в open source — **большой плюс**
-  - PyTorch, Hugging Face, Qdrant, CatBoost, ClearML, Albumentations
+  - PyTorch, Hugging Face, vLLM, Qdrant, CatBoost, ClearML

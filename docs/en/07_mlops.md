@@ -29,7 +29,7 @@
 
 - [ ] **MLflow Tracking** — runs, metrics, artifacts
 - [ ] **Weights & Biases** — newer, more convenient
-- [ ] **ClearML** — Russian option, formerly Allegro
+- [ ] **ClearML** — open source, self-hostable (useful when SaaS is unavailable)
 - [ ] Hydra / OmegaConf — experiment configs
 
 ---
@@ -41,9 +41,9 @@
 | **FastAPI + Uvicorn** | simple models, REST/JSON |
 | **gRPC** | low latency, binary data |
 | **Triton Inference Server** | production GPU, multiple models |
-| **TorchServe** | PyTorch-only |
 | **Ray Serve** | scaling, autoscaling |
-| **vLLM / TGI** | LLM inference |
+| **vLLM / SGLang** | LLM inference |
+| **KServe / BentoML** | serving in k8s / model packaging |
 | **ONNX Runtime / TensorRT** | hardware optimization |
 
 - [ ] Request batching
@@ -71,7 +71,8 @@
   - latency, throughput, RPS
   - data drift, concept drift
   - prediction distribution
-- [ ] **Evidently AI** — ML monitoring, open source, Russian-made
+- [ ] **Evidently AI** — ML monitoring, open source
+- [ ] LLM monitoring: tracing, token cost, answer quality (Langfuse, Phoenix)
 - [ ] Alerting
 
 ---
@@ -94,7 +95,7 @@
 | 🎥 [karpov.courses — MLOps](https://karpov.courses/mlops) | ⭐⭐ |
 | 📘 "Designing Machine Learning Systems" — Chip Huyen | ⭐⭐⭐ |
 | 📘 "Machine Learning Engineering" — Andriy Burkov | ⭐⭐ |
-| 🎥 [MLOps Community (YouTube)](https://www.youtube.com/@MLOps) | ⭐⭐ |
+| 🎥 [MLOps Community](https://mlops.community/) | ⭐⭐ |
 | 📚 [Awesome MLOps](https://github.com/visenger/awesome-mlops) | — |
 
 ---
