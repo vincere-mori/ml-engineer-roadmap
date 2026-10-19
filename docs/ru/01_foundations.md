@@ -1,6 +1,6 @@
 # 🐍 1. Foundations — Python, алгоритмы, CS
 
-> English version: [01_foundations.md](../en/01_foundations.md)
+> [📋 Оглавление](../../README.md) · [🇬🇧 English](../en/01_foundations.md)
 
 > **Цель этапа:** уверенно писать продакшен-код на Python, понимать как работает компьютер, проходить алгоритмические секции собеседований.
 

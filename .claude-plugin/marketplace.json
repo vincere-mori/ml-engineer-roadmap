@@ -1,0 +1,14 @@
+{
+  "name": "ml-engineer-roadmap",
+  "description": "ML Engineer roadmap tools: level check, study plan, mock interviews",
+  "owner": {
+    "name": "vincere-mori"
+  },
+  "plugins": [
+    {
+      "name": "ml-roadmap",
+      "source": "./plugins/ml-roadmap",
+      "description": "ML coach: level check, personal study plan, mock ML interviews and quizzes (RU/EN)"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # 🤖 4. Classical ML
 
-> English version: [04_classical_ml.md](../en/04_classical_ml.md)
+> [📋 Оглавление](../../README.md) · [🇬🇧 English](../en/04_classical_ml.md)
 
 > Основа всего. На собеседованиях в РФ classical ML спрашивают **очень глубоко** — особенно бустинги (потому что **CatBoost** сделан в Yandex и используется везде).
 

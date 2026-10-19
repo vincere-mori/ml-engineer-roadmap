@@ -1,6 +1,6 @@
 # 📖 11. Resources, Mostly RU
 
-> Russian version: [11_resources.md](../ru/11_resources.md)
+> [📋 Contents](../../README.en.md) · [🇷🇺 Русский](../ru/11_resources.md)
 
 ---
 
@@ -108,4 +108,4 @@
 ---
 
 <!-- nav -->
-← Back: [🎯 10. Pet Projects and Portfolio](10_projects.md) · [Contents](../../README.md)
+← Back: [🎯 10. Pet Projects and Portfolio](10_projects.md) · [Contents](../../README.en.md)

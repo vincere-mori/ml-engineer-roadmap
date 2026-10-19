@@ -1,6 +1,6 @@
 # 🧠 5. Deep Learning
 
-> Russian version: [05_deep_learning.md](../ru/05_deep_learning.md)
+> [📋 Contents](../../README.en.md) · [🇷🇺 Русский](../ru/05_deep_learning.md)
 
 > In Russia, the de facto standard is **PyTorch**. TensorFlow exists too, but is less common.
 
@@ -79,4 +79,4 @@
 ---
 
 <!-- nav -->
-← Back: [🤖 4. Classical ML](04_classical_ml.md) · [Contents](../../README.md) · Next: [💬 6. Modern AI — NLP, LLM, RAG](06_modern_ai.md) →
+← Back: [🤖 4. Classical ML](04_classical_ml.md) · [Contents](../../README.en.md) · Next: [💬 6. Modern AI — NLP, LLM, RAG](06_modern_ai.md) →

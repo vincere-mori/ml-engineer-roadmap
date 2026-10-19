@@ -1,6 +1,6 @@
 # 🐍 1. Foundations — Python, algorithms, CS
 
-> Russian version: [01_foundations.md](../ru/01_foundations.md)
+> [📋 Contents](../../README.en.md) · [🇷🇺 Русский](../ru/01_foundations.md)
 
 > **Stage goal:** write production code in Python confidently, understand how computers work, and pass algorithmic interview rounds.
 
@@ -62,4 +62,4 @@ Write a Python **CLI utility** that:
 ---
 
 <!-- nav -->
-[Contents](../../README.md) · Next: [📐 2. Math for ML](02_math.md) →
+[Contents](../../README.en.md) · Next: [📐 2. Math for ML](02_math.md) →

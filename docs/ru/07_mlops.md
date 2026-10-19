@@ -1,6 +1,6 @@
 # ⚙️ 7. MLOps & Production
 
-> English version: [07_mlops.md](../en/07_mlops.md)
+> [📋 Оглавление](../../README.md) · [🇬🇧 English](../en/07_mlops.md)
 
 > **Главное отличие** ML Engineer от Data Scientist — умение довести модель **до прода** и поддерживать её там. Именно за это платят senior-зарплаты.
 

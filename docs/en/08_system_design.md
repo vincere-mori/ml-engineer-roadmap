@@ -1,6 +1,6 @@
 # 🏗️ 8. ML System Design
 
-> Russian version: [08_system_design.md](../ru/08_system_design.md)
+> [📋 Contents](../../README.en.md) · [🇷🇺 Русский](../ru/08_system_design.md)
 
 > The **interview section** that most often separates Junior from Middle, and Middle from Senior. At Yandex/T-Bank/Avito it is mandatory.
 
@@ -60,4 +60,4 @@
 ---
 
 <!-- nav -->
-← Back: [⚙️ 7. MLOps & Production](07_mlops.md) · [Contents](../../README.md) · Next: [💼 9. Career in the Russian Market](09_career.md) →
+← Back: [⚙️ 7. MLOps & Production](07_mlops.md) · [Contents](../../README.en.md) · Next: [💼 9. Career in the Russian Market](09_career.md) →

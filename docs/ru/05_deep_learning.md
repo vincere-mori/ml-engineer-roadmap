@@ -1,6 +1,6 @@
 # 🧠 5. Deep Learning
 
-> English version: [05_deep_learning.md](../en/05_deep_learning.md)
+> [📋 Оглавление](../../README.md) · [🇬🇧 English](../en/05_deep_learning.md)
 
 > В РФ де-факто стандарт — **PyTorch**. TensorFlow тоже встречается, но реже.
 

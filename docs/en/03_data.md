@@ -1,6 +1,6 @@
 # 🗄️ 3. Data Engineering for ML
 
-> Russian version: [03_data.md](../ru/03_data.md)
+> [📋 Contents](../../README.en.md) · [🇷🇺 Русский](../ru/03_data.md)
 
 > In real work an ML engineer spends half the time on data, not models. If you come from DE, you already have a head start. If not, don't skip this one: below is what you **must** be able to do.
 
@@ -89,4 +89,4 @@ An ETL pipeline in Airflow:
 ---
 
 <!-- nav -->
-← Back: [📐 2. Math for ML](02_math.md) · [Contents](../../README.md) · Next: [🤖 4. Classical ML](04_classical_ml.md) →
+← Back: [📐 2. Math for ML](02_math.md) · [Contents](../../README.en.md) · Next: [🤖 4. Classical ML](04_classical_ml.md) →

@@ -1,6 +1,6 @@
 # 💼 9. Карьера на российском рынке
 
-> English version: [09_career.md](../en/09_career.md)
+> [📋 Оглавление](../../README.md) · [🇬🇧 English](../en/09_career.md)
 
 ---
 

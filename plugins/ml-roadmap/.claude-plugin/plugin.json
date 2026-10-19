@@ -1,0 +1,12 @@
+{
+  "name": "ml-roadmap",
+  "description": "ML coach: level check, personal study plan, mock ML interviews and quizzes (RU/EN)",
+  "version": "1.0.0",
+  "author": {
+    "name": "vincere-mori"
+  },
+  "homepage": "https://github.com/vincere-mori/ml-engineer-roadmap",
+  "repository": "https://github.com/vincere-mori/ml-engineer-roadmap",
+  "license": "CC-BY-SA-4.0",
+  "keywords": ["machine-learning", "interview", "roadmap", "mlops", "llm"]
+}

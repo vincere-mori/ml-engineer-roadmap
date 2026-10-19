@@ -1,6 +1,6 @@
 # 🎯 10. Pet Projects and Portfolio
 
-> Russian version: [10_projects.md](../ru/10_projects.md)
+> [📋 Contents](../../README.en.md) · [🇷🇺 Русский](../ru/10_projects.md)
 
 > 2–3 **strong** GitHub projects do more for an offer than 10 YouTube tutorials. Quality > quantity.
 
@@ -98,4 +98,4 @@ Python, PyTorch, FastAPI, Docker, …
 ---
 
 <!-- nav -->
-← Back: [💼 9. Career in the Russian Market](09_career.md) · [Contents](../../README.md) · Next: [📖 11. Resources, Mostly RU](11_resources.md) →
+← Back: [💼 9. Career in the Russian Market](09_career.md) · [Contents](../../README.en.md) · Next: [📖 11. Resources, Mostly RU](11_resources.md) →

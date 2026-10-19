@@ -1,6 +1,6 @@
 # 💼 9. Career in the Russian Market
 
-> Russian version: [09_career.md](../ru/09_career.md)
+> [📋 Contents](../../README.en.md) · [🇷🇺 Русский](../ru/09_career.md)
 
 ---
 
@@ -100,4 +100,4 @@
 ---
 
 <!-- nav -->
-← Back: [🏗️ 8. ML System Design](08_system_design.md) · [Contents](../../README.md) · Next: [🎯 10. Pet Projects and Portfolio](10_projects.md) →
+← Back: [🏗️ 8. ML System Design](08_system_design.md) · [Contents](../../README.en.md) · Next: [🎯 10. Pet Projects and Portfolio](10_projects.md) →

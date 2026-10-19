@@ -1,6 +1,6 @@
 # 📖 11. Ресурсы (преимущественно RU)
 
-> English version: [11_resources.md](../en/11_resources.md)
+> [📋 Оглавление](../../README.md) · [🇬🇧 English](../en/11_resources.md)
 
 ---
 

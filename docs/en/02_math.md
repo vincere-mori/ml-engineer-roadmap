@@ -1,6 +1,6 @@
 # 📐 2. Math for ML
 
-> Russian version: [02_math.md](../ru/02_math.md)
+> [📋 Contents](../../README.en.md) · [🇷🇺 Русский](../ru/02_math.md)
 
 > **Goal:** not just "know formulas", but **understand** what happens inside models. Yandex/Sber/T-Bank interviews can go deep on math.
 
@@ -80,4 +80,4 @@
 ---
 
 <!-- nav -->
-← Back: [🐍 1. Foundations — Python, algorithms, CS](01_foundations.md) · [Contents](../../README.md) · Next: [🗄️ 3. Data Engineering for ML](03_data.md) →
+← Back: [🐍 1. Foundations — Python, algorithms, CS](01_foundations.md) · [Contents](../../README.en.md) · Next: [🗄️ 3. Data Engineering for ML](03_data.md) →

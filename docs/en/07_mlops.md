@@ -1,6 +1,6 @@
 # ⚙️ 7. MLOps & Production
 
-> Russian version: [07_mlops.md](../ru/07_mlops.md)
+> [📋 Contents](../../README.en.md) · [🇷🇺 Русский](../ru/07_mlops.md)
 
 > The main difference between an ML Engineer and a Data Scientist is the ability to bring a model **to production** and support it there. This is what senior salaries pay for.
 
@@ -118,4 +118,4 @@
 ---
 
 <!-- nav -->
-← Back: [💬 6. Modern AI — NLP, LLM, RAG](06_modern_ai.md) · [Contents](../../README.md) · Next: [🏗️ 8. ML System Design](08_system_design.md) →
+← Back: [💬 6. Modern AI — NLP, LLM, RAG](06_modern_ai.md) · [Contents](../../README.en.md) · Next: [🏗️ 8. ML System Design](08_system_design.md) →

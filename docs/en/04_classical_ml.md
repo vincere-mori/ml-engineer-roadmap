@@ -1,6 +1,6 @@
 # 🤖 4. Classical ML
 
-> Russian version: [04_classical_ml.md](../ru/04_classical_ml.md)
+> [📋 Contents](../../README.en.md) · [🇷🇺 Русский](../ru/04_classical_ml.md)
 
 > The base of everything. In Russian interviews, classical ML is asked **very deeply**, especially boosting, because **CatBoost** was made at Yandex and is used everywhere.
 
@@ -90,4 +90,4 @@
 ---
 
 <!-- nav -->
-← Back: [🗄️ 3. Data Engineering for ML](03_data.md) · [Contents](../../README.md) · Next: [🧠 5. Deep Learning](05_deep_learning.md) →
+← Back: [🗄️ 3. Data Engineering for ML](03_data.md) · [Contents](../../README.en.md) · Next: [🧠 5. Deep Learning](05_deep_learning.md) →

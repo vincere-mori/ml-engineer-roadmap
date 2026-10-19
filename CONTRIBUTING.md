@@ -1,5 +1,7 @@
 # 🤝 Как помочь роудмапу
 
+**Русский** · [English](CONTRIBUTING.en.md)
+
 Спасибо, что заглянул. ML меняется быстро, и одному за всем не уследить, так что любая помощь реально полезна.
 
 ## Что особенно нужно
@@ -18,6 +20,7 @@
 1. Форкни репозиторий и создай ветку.
 2. Правь сразу **обе** версии, `docs/ru/` и `docs/en/`. Если английский даётся тяжело, поправь только русскую, а в описании PR напиши, что EN не трогал, я доделаю.
 3. В описании PR коротко объясни, зачем правка. Например: «TGI заархивировали в 2026, заменил на SGLang».
+4. Правишь ML Coach? Он лежит в `plugins/ml-roadmap/skills/ml-coach/`. Вопросы для собесов в `references/questions.md`, кейсы system design в `references/interview.md`. Новые вопросы добавляй с уровнем (J/M/S) и ключевыми пунктами ответа.
 
 ## Пара правил, чтобы всё не расползлось
 
@@ -30,6 +33,3 @@
 
 Всё в репозитории под [CC BY-SA 4.0](LICENSE). Отправляя PR, ты соглашаешься, что твоя правка будет под этой же лицензией.
 
----
-
-**In English:** issues and PRs in English are welcome too. Please update both `docs/ru/` and `docs/en/` if you can, don't add pirated books or links to them, and check every link before adding it.

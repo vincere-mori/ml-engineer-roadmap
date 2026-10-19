@@ -1,18 +1,18 @@
-name: 📚 Предложить ресурс
-description: Курс, книга, канал или инструмент, которого не хватает в роудмапе
+name: 📚 Предложить ресурс / Suggest a resource
+description: Курс, книга, канал или инструмент, которого не хватает / A course, book, channel or tool that is missing
 labels: ["resource"]
 body:
   - type: input
     id: link
     attributes:
-      label: Ссылка
+      label: Ссылка / Link
       placeholder: https://...
     validations:
       required: true
   - type: dropdown
     id: section
     attributes:
-      label: В какой раздел
+      label: В какой раздел / Section
       options:
         - 1. Foundations
         - 2. Математика
@@ -25,20 +25,20 @@ body:
         - 9. Карьера
         - 10. Pet-проекты
         - 11. Ресурсы
-        - Не уверен
+        - Не уверен / Not sure
     validations:
       required: true
   - type: textarea
     id: why
     attributes:
-      label: Почему стоит добавить
-      description: Пары предложений хватит. Чем он лучше того, что уже есть? Бесплатный или платный, на каком языке?
+      label: Почему стоит добавить / Why add it
+      description: Пары предложений хватит. Чем лучше того, что уже есть? Бесплатный или платный, язык? / A couple of sentences. Why is it better than what is there? Free or paid, which language?
     validations:
       required: true
   - type: checkboxes
     id: check
     attributes:
-      label: Проверка
+      label: Проверка / Check
       options:
-        - label: Это не пиратская копия платной книги или курса
+        - label: Это не пиратская копия платной книги или курса / This is not a pirated copy of a paid book or course
           required: true

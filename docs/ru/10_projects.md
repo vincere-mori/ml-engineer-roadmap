@@ -1,6 +1,6 @@
 # 🎯 10. Pet-проекты и портфолио
 
-> English version: [10_projects.md](../en/10_projects.md)
+> [📋 Оглавление](../../README.md) · [🇬🇧 English](../en/10_projects.md)
 
 > 2–3 **сильных** проекта на GitHub дают больше оффера, чем 10 туториалов из YouTube. Качество > количество.
 

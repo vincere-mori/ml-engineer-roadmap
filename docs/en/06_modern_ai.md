@@ -1,6 +1,6 @@
 # 💬 6. Modern AI — NLP, LLM, RAG
 
-> Russian version: [06_modern_ai.md](../ru/06_modern_ai.md)
+> [📋 Contents](../../README.en.md) · [🇷🇺 Русский](../ru/06_modern_ai.md)
 
 > The hottest and **highest-paid** niche in 2026. In Russia: Yandex (YandexGPT, Alice), Sber (GigaChat, Kandinsky), T-Bank, MTS AI, Avito.
 
@@ -106,4 +106,4 @@
 ---
 
 <!-- nav -->
-← Back: [🧠 5. Deep Learning](05_deep_learning.md) · [Contents](../../README.md) · Next: [⚙️ 7. MLOps & Production](07_mlops.md) →
+← Back: [🧠 5. Deep Learning](05_deep_learning.md) · [Contents](../../README.en.md) · Next: [⚙️ 7. MLOps & Production](07_mlops.md) →

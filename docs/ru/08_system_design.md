@@ -1,6 +1,6 @@
 # 🏗️ 8. ML System Design
 
-> English version: [08_system_design.md](../en/08_system_design.md)
+> [📋 Оглавление](../../README.md) · [🇬🇧 English](../en/08_system_design.md)
 
 > **Секция собеседования**, которая чаще всего отделяет Junior от Middle, а Middle от Senior. В Yandex/T-Bank/Avito — обязательная.
 
