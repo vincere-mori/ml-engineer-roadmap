@@ -18,7 +18,7 @@
 
 ## About
 
-I'm putting this roadmap together while going down the ML Engineer path myself. I wanted one clear route instead of "learn everything": which stack Russian companies actually use, where to apply, what they ask in interviews, and what to read.
+One clear route to an ML Engineer offer instead of "learn everything". It covers what actually matters in the Russian market: which stack companies use, where to apply, what they ask in interviews, and what to read.
 
 Every section is a checklist. Tick things off as you go. At the bottom of each page there are "back" and "next" links, so it reads like a book.
 
